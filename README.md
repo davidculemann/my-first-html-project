@@ -1,4 +1,4 @@
-# My first HTML project, which I will now commit.
+# My first HTML project, which I will now commit, then recommit.
 
 This is my first HTML project.
 
